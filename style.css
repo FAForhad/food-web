@@ -22,8 +22,7 @@ a{
     display: flex;
 }
 .uper{
-     background-image: url(./images/shapes/7.png);
- 
+     background-image: url(./images/shapes/Frame\ 56.jpg);
 }
 .half-w{
     width: 50%;
@@ -36,6 +35,66 @@ a{
     padding-bottom: 20px;
     text-align: justify;
 }
-.back{
+.mid{
     background-image: url(./images/shapes/Frame\ 59.jpg);
+}
+.third{
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: center;
+}
+.third h1{
+    padding-left: 10%;
+}
+.recipi{
+    display: flex;
+}
+.exp{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 40px rgb(0, 0, 0);
+    border: 10px 10px;
+    border-radius: 10px;
+}
+.exp img{
+    width:98%;
+    padding-top: 20px;
+    
+}
+.jj{
+    background-image: url(./images/shapes/Frame\ 58.jpg);
+}
+.extra{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 4% 15%;
+    background-image: linear-gradient(rgb(224, 151, 163), rgb(255, 79, 79));
+    border-radius: 10px;
+}
+.id{
+    padding-left: 22%;
+}
+#uu{
+    color: #FBA24F;
+}
+.footer{
+    width: 50%;
+    padding-left: 11%;
+    padding-right: 9%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    margin: 4% 15%;
+    color: aliceblue;
+    font-size: 40px;
+    background-color: black;
+    text-align: center;
+    border-radius: 12px;
 }
